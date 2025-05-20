@@ -45,7 +45,7 @@ theme = "hugo-blog-awesome"
       weight = 30
 
   [Languages.en.params.author]
-    avatar = "avatar.jpeg" # put the file in assets folder; also ensure that image has same height and width
+    avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
     # Note: image is not rendered if the resourcgbe(avatar image) is not found. No error is displayed.
     intro = "Welcome to my personal blog!"
     name = "Matin Zivdar"
@@ -108,7 +108,7 @@ theme = "hugo-blog-awesome"
     # By default (or if nothing is specified), summary is used.
 
     [Languages.fr.params.author]
-      avatar = "avatar.jpeg" # put the file in assets folder; also ensure that image has same height and width
+      avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
       # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
       intro = "Bienvenue sur mon blog personnel!"
       name = "Matin Zivdar"
@@ -174,7 +174,7 @@ theme = "hugo-blog-awesome"
     # By default (or if nothing is specified), summary is used.
 
     [Languages.fa.params.author]
-      avatar = "avatar.jpeg" # put the file in assets folder; also ensure that image has same height and width
+      avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
       # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
       intro = "سلام و درود!"
       name = "متین زیودار"
